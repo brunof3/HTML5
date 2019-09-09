@@ -1,0 +1,14 @@
+	 h1{
+	 font-family: robot, sans-serif;
+	 font-size: 40pt;
+	 font-weight: height
+	 }
+	 title {
+	 font-family: robot, sans-serif;
+	 font-weight: soft;
+	 
+	 }
+	body {
+		background-color: white;
+		
+	}
